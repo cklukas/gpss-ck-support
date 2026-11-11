@@ -78,9 +78,9 @@ The first time a terminal app uses the Documents folder, macOS asks for permissi
 
 `cksim` follows the edition of the app. After a purchase, open GPSS/CK once so the tool learns of it.
 
-### Can I open models written for GPSS/H or IBM GPSS/360?
+### Can I open models written for other GPSS systems?
 
-GPSS/CK has its own dialect and separate strict profiles for GPSS/H and IBM GPSS/360 source. A statement outside the selected profile is reported with its line rather than guessed at. The Reference lists what each profile accepts and where behaviour differs.
+GPSS/CK has its own dialect and strict profiles for classic GPSS source. A statement outside the selected profile is reported with its line rather than guessed at. The Reference in the app lists what each profile accepts and where behaviour differs.
 
 ### May I use the book's example models in my own work?
 
@@ -92,4 +92,4 @@ See the [Privacy Policy](./privacy.html).
 
 ## Trademarks
 
-GPSS/CK is an independent product. It is not affiliated with, endorsed by or derived from the products of IBM or Wolverine Software. IBM is a trademark of International Business Machines Corporation; GPSS/H is a product of Wolverine Software Corporation. These names are used only to say which model source GPSS/CK can read.
+GPSS/CK is an independent product, not affiliated with or endorsed by the makers of other GPSS systems. Product names mentioned in its documentation belong to their owners and are used only to identify the systems and source forms discussed.
