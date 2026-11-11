@@ -89,3 +89,7 @@ Yes. The example models, their data files and the accompanying helper scripts ma
 ## Privacy
 
 See the [Privacy Policy](./privacy.html).
+
+## Trademarks
+
+GPSS/CK is an independent product. It is not affiliated with, endorsed by or derived from the products of IBM or Wolverine Software. IBM is a trademark of International Business Machines Corporation; GPSS/H is a product of Wolverine Software Corporation. These names are used only to say which model source GPSS/CK can read.
