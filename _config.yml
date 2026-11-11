@@ -1,0 +1,9 @@
+title: GPSS/CK Support
+description: Support, help, and privacy information for GPSS/CK.
+url: "https://cklukas.github.io"
+baseurl: "/gpss-ck-support"
+theme: minima
+markdown: kramdown
+header_pages:
+  - index.md
+  - privacy.md
