@@ -7,7 +7,7 @@ title: GPSS/CK Support
 
 GPSS/CK is a Mac app for discrete-event simulation. You describe a system as a GPSS model — arrivals, queues, servers, storages and routing — run it, and study waiting times, utilization and throughput in reports, plots, an animation of the run and a debugger that can step back. The app includes the book *Queues, Clocks, and Choices: Discrete-Event Simulation with GPSS/CK* with all of its example models, a language reference, and the command-line tool `cksim`.
 
-GPSS/CK runs on macOS 15 Sequoia or later, on a Mac with Apple silicon.
+GPSS/CK runs on macOS 15 Sequoia or later, on Macs with Apple silicon and on Intel-based Macs.
 
 ## Support
 
